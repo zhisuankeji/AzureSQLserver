@@ -1,0 +1,2 @@
+# AzureSQLserver
+vs to azureSQLSERVER
